@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## jsilv21 - github pages TBD 🙂
+### working on stuff at the moment...
+
+![Image](https://giphy.com/embed/bAplZhiLAsNnG)
+
+[my github](github.com/jsilv21/)
 
 <!--- BEGIN COMMENT
 You can use the [editor on GitHub](https://github.com/jsilv21/jsilv21.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
@@ -28,11 +33,12 @@ Syntax highlighted code block
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
- END COMMENT --->
 
-### Jekyll Themes
+
 
 
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+ END COMMENT --->
